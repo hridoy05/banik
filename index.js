@@ -2,5 +2,5 @@
 
 console.log(`
     Hridoy Banik
-    A Software Engineer.
+    A Software Engineer. He loves to work with JavaScript Stack.
 `);
